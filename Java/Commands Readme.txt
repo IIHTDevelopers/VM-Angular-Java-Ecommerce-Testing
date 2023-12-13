@@ -1,8 +1,6 @@
-BackEnd-Commands
+You can follow series of command to setup angular environment once you are in your project-name folder
 
-You can follow series of command to setup express environment once you are in your project-name folder
-
-* cd into your backend project folder
+* cd into your frontend project folder
 
 * npm install -> Will install all dependencies -> takes 10 to 15 min
 
